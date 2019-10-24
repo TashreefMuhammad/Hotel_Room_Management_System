@@ -1,0 +1,4 @@
+SingleNormal 51
+SingleDeluxe 63
+DoubleNormal 55
+DoubleDeluxe 55

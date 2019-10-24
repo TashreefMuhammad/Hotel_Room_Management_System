@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HRMS", "HRMS\HRMS.vcxproj", "{A348099C-4897-42BB-8EE8-70AF6049D507}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A348099C-4897-42BB-8EE8-70AF6049D507}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A348099C-4897-42BB-8EE8-70AF6049D507}.Debug|Win32.Build.0 = Debug|Win32
+		{A348099C-4897-42BB-8EE8-70AF6049D507}.Release|Win32.ActiveCfg = Release|Win32
+		{A348099C-4897-42BB-8EE8-70AF6049D507}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
